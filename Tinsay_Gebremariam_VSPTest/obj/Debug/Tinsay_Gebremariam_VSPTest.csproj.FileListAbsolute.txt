@@ -1,0 +1,8 @@
+C:\Users\tinsa\source\repos\Tinsay_Gebremariam_VSPTest\obj\Debug\Tinsay_Gebremariam_VSPTest.csproj.AssemblyReference.cache
+C:\Users\tinsa\source\repos\Tinsay_Gebremariam_VSPTest\obj\Debug\Tinsay_Gebremariam_VSPTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinsa\source\repos\Tinsay_Gebremariam_VSPTest\obj\Debug\Tinsay_Gebremariam_VSPTest.csproj.CoreCompileInputs.cache
+C:\Users\tinsa\source\repos\Tinsay_Gebremariam_VSPTest\bin\Debug\Tinsay_Gebremariam_VSPTest.exe.config
+C:\Users\tinsa\source\repos\Tinsay_Gebremariam_VSPTest\bin\Debug\Tinsay_Gebremariam_VSPTest.exe
+C:\Users\tinsa\source\repos\Tinsay_Gebremariam_VSPTest\bin\Debug\Tinsay_Gebremariam_VSPTest.pdb
+C:\Users\tinsa\source\repos\Tinsay_Gebremariam_VSPTest\obj\Debug\Tinsay_Gebremariam_VSPTest.exe
+C:\Users\tinsa\source\repos\Tinsay_Gebremariam_VSPTest\obj\Debug\Tinsay_Gebremariam_VSPTest.pdb
